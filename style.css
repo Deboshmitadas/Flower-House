@@ -1,0 +1,175 @@
+@charset "utf-8";
+/* CSS Document */
+
+{
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+#logoo
+{
+	width:300px;
+	height:130px;
+	background:url(logoo.jpg);
+	position:relative;
+	float:left;
+	margin-top:5px;
+	margin-left:525px;
+}
+hr
+{
+	width:100%;
+	border:2px solid #ec0085;
+}
+#navber
+{
+	height:70px;
+	width:1366px;
+	background:url(nav.jpg);
+	position:relative;
+	float:left;
+	margin-top:5px;
+}
+.button
+{
+	width:auto;
+	height:15px;
+	position:relative;
+	float:left;
+	padding:20px;
+	margin-left:150px;
+	border:2px solid #98bd3c;
+	border-radius:180px 180px 180px 180px;
+	background:#F9F;
+}
+.button a
+{
+	text-decoration:none;
+	font-size:24px;
+	font-family:"Times New Roman", Times, serif;
+	color:#C09;
+	font-weight:bold;
+}
+.button a:hover
+{
+	color:#00F;
+}
+#banner
+{
+	height:300px;
+	width:1350px;
+	background:url(banner.jpg);
+	position:relative;
+	float:left;
+	margin-top:5px;
+	margin-left:5px;
+	transition:2s;	
+}
+#banner:hover
+{
+	background:url(main.jpg);
+}
+#image1
+{
+	height:400px;
+	width:300px;
+	background:url(image1.jpg);
+	position:relative;
+	float:left;
+	margin-left:25px;
+	margin-top:15px;
+	opacity:0.5;
+	transition:1s;
+}
+#image1:hover
+{
+	opacity:1;
+}
+.image
+{
+	width:200px;
+	height:200px;
+	position:relative;
+	float:left;
+	margin-left:25px;
+	margin-top:15px;
+	outline-offset:0px;
+}
+#image3
+{
+	width:600px;
+	height:200px;
+	background:url(image3.jpg);
+	position:relative;
+	float:left;
+	margin-left:-425px;
+	margin-top:-200px;
+}
+#image2
+{
+	height:400px;
+	width:300px;
+	background:url(image2.jpg);
+	position:relative;
+	float:left;
+	margin-left:235px;
+	margin-top:-200px;
+	transition:1s;
+	opacity:0.5;
+
+}
+#image2:hover
+{
+	opacity:1.5;
+}
+#wallpaper
+{
+	height:500px;
+	width:1350px;
+	background:url(immmm1.jpg);
+	position:relative;
+	float:left;
+	transition:2s;
+	margin-left:-775px;
+	margin-top:10px;
+	background-position:center;
+
+}
+#wallpaper:hover
+{
+	background:url(immmm2.jpg);
+	background-position:center;
+
+}
+#footer
+{
+	height:50px;
+	width:1350px;
+	background:#999;
+	position:relative;
+	float:left;
+	margin-top:10px;
+	margin-left:-775px;
+}
+h4
+{
+	width:100%;
+	height:50px;
+	line-height:25px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	position:relative;
+	float:left;
+	margin-left:1100px;
+	color:#000000;
+}
+.s_icon
+{
+	width:30px;
+	height:30px;
+	position:relative;
+	float:left;
+	margin-left:10px;
+	margin-top:-28px;
+}
+
